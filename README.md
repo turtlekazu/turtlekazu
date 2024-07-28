@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi I'm...
+[![typograssy](https://typograssy.deno.dev/api?text=turtlekazu)](https://github.com/kawarimidoll/typograssy)
 
+```kotlin
+data class Profile(
+    val name = Kazuhiro ISHIBASHI
+    val id = turtlekazu
+    val occupation = Android Developer
+    val framework = Compose Multiplatform
+    val country = Japan🇯🇵
+    val love = turtle🐢(Stinkpot turtle), Portable Audio, UMPC
+)
+```
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ubuntu,raspberrypi,react,nextjs,figma&theme=light)](https://skillicons.dev)
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats-turtlekazu.vercel.app/api?username=turtlekazu&show_icons=true&theme=radical)
 <!--
 **turtlekazu/turtlekazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
