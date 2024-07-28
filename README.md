@@ -7,8 +7,8 @@ data class Profile(
     val id = "turtlekazu"
     val occupation = MobileDeveloper.Android
     val framework = "Compose Multiplatform"
-    val country = "Japan🇯🇵"
-    val love = listOf("turtle🐢(Stinkpot turtle)", "Portable Audio", "UMPC2")
+    val country = Locale.JAPAN
+    val love = listOf("turtle🐢(Stinkpot Turtle)", "Portable Audio", "UMPC", "Cyberpunk")
 )
 ```
 
