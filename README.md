@@ -3,12 +3,12 @@
 
 ```kotlin
 data class Profile(
-    val name = Kazuhiro ISHIBASHI
-    val id = turtlekazu
-    val occupation = Android Developer
-    val framework = Compose Multiplatform
-    val country = Japan🇯🇵
-    val love = turtle🐢(Stinkpot turtle), Portable Audio, UMPC
+    val name = "Kazuhiro ISHIBASHI"
+    val id = "turtlekazu"
+    val occupation = MobileDeveloper.Android
+    val framework = "Compose Multiplatform"
+    val country = "Japan🇯🇵"
+    val love = listOf("turtle🐢(Stinkpot turtle)", "Portable Audio", "UMPC2")
 )
 ```
 
