@@ -6,9 +6,9 @@ data class Profile(
     val name = "Kazuhiro ISHIBASHI"
     val id = "turtlekazu"
     val occupation = MobileDeveloper.Android
-    val framework = "Compose Multiplatform"
+    val framework = "Jetpack Compose, Kotlin Multiplatform"
     val country = Locale.JAPAN
-    val love = listOf("turtle🐢(Stinkpot Turtle)", "Portable Audio", "UMPC", "Cyberpunk")
+    val love = listOf("turtle🐢(Stinkpot Turtle)", "Portable Audio", "Camping", "AOSP")
 )
 ```
 
