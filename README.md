@@ -23,8 +23,6 @@ data class Profile(
 ## Quote
 [![Quote](https://img.shields.io/badge/Hideo%20ITOKAWA-Unprecedented%20means%20worth%20trying.-71706E?style=for-the-badge&labelColor=2D2C2A)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
 <!--
 **turtlekazu/turtlekazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
